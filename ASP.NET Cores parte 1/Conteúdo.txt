@@ -1,0 +1,39 @@
+Capítulo 1
+Capítulo 2
+ - A estrutura de projeto ASP.NET Core MVC
+ - View
+ - Controller, ViewData e Modelo
+ - O Padrão MVC
+ - O Arquivo Layout cshtml
+ - A Página Carrossel
+ - Modificando a Rota Padrão do MVC.
+Capítulo 3
+ - Criando o Modelo de dados
+ - Configurando o Banco de Dados SQL Server para uso
+ - Relacionamentos e Migrações
+ - Gerando Banco
+ - Classe Startup
+ - Serviços
+ - Injeção de Dependências
+ - Método EnsureCreated X Método Migrate
+Capítulo 4
+ - DataService
+ - Injeção de Dependência
+ - Lendo Arquivo Json de Produtos
+ - Gravando Produtos no Banco de Dados
+ - ProdutoRepository
+ - Injetando Modelo na View Carrossel
+ - Exibindo uma Página de Produtos
+ - Paginação do Carrossel de Produtos
+Capítulo 5
+ - O Pattern Repository
+ - Links com Tag Helpers
+ - Passando Código de Produto na Rota
+ - Configurando session
+ - Gravando e Lendo PedidoId na Sessão
+Capítulo 6
+ - Obter ou criar um pedido
+ - Salvar item de pedido
+ - Tela de carrinho e método Include()
+ - View de Resumo
+ - Conclusão
